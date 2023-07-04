@@ -5,5 +5,5 @@ Kullanım:
 `chmod +x kablosuz_deauther.sh`
 `sudo ./kablosuz_deauther.sh`
 
-Ağları taramak için Networkmanager gereklidir. Eğer NetworkManager kullanmıyorsanız BSSID'yi elle girmelisiniz.
+Ağları taramak için NetworkManager gereklidir. Eğer NetworkManager kullanmıyorsanız BSSID'yi elle girmelisiniz.
 Kullanmak için ise mdk3 ve macchanger gereklidir.
